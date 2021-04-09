@@ -210,7 +210,7 @@ Zum Gamesports-Netzwerk gehören derzeit folgenden Domains (Webseiten):
 
   
   
-_Stand Januar 2021_  
+_Stand April 2021_  
   
 
   

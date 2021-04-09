@@ -196,7 +196,7 @@ The following websites are currently part of the GameSports Network:
 
   
   
-_Effective January 2021_  
+_Effective April 2021_  
   
 
   
