@@ -117,7 +117,20 @@ Im Rahmen der Erfüllung gesetzlicher und vertraglicher Pflichten bedienen wir u
       
     
   
-6.  **Datenweiterleitung an Dritte**  
+6.  **Einsatz eines Anti-Cheat-Tools**  
+    ANYBRAIN ist ein Softwareprodukt, das von der Firma ANYBRAIN, S.A. entwickelt wurde und als Dienstleistung angeboten wird, welches Softwareloesungen fuer Sicherheit, Schutz und Betrugspraevention fuer Online-Dienste wie z.B. Online-Gaming anbietet.  
+    Die Software und Dienstleistungen von ANYBRAIN funktionieren als SDK unabhaengig von der Client-App (z.B.: dem Spiele-Client oder einer externen App), in die sie eingefuegt werden.  
+      
+    Die Dienste von ANYBRAIN zielen darauf ab, die personenbezogenen Daten des Nutzers im Zusammenhang mit der Nutzung von Tastatur und Maus und allen Interaktionen mit dem Computer waehrend der Nutzung der Software und Anwendungen des Kunden zu sammeln:  
+    Geraete-ID, MAC-Adresse, IP-Adresse und biometrische Daten, um Verhaltensmuster des Benutzers zu identifizieren, namentlich: Geschwindigkeit und Anzahl der Klicks auf Maus und Tastatur.  
+      
+    Dies hat den Zweck, verdaechtiges Verhalten von Benutzern, die in der 99Liga spielen, zu erkennen und zu identifizieren, um die Fairness und um Betrug zu verhindern.  
+      
+    Ein Opt-Out ist nur moeglich, wenn auf die Teilnahme an der 99Liga verzichtet wird.  
+    Die Teilnahme an Spielen in der 99Liga ist nicht moeglich ohne ein aktives Opt-In.  
+    Weitere Details zu den Leistungen und Aussagen von ANYBRAIN finden Sie hier: [Datenschutzhinweisen von Anybrain](https://www.anybrain.gg/privacy)
+  
+8.  **Datenweiterleitung an Dritte**  
     Die Daten der Nutzer werden nur dann an Dritte weitergeleitet, wenn dies gesetzlich erlaubt ist oder du in die Weiterleitung eingewilligt hast. Das ist zum Beispiel der Fall wenn die Weiterleitung der Daten der Erfüllung vertraglicher Verpflichtungen gegenüber dem Nutzer dient und die Postadresse eines Gewinner eines Turnieres an ein Speditionsunternehmen oder Kreditinstitut übergeben wird zur Zusendung oder Auszahlung des Gewinns. Oder falls die Daten von zuständigen Stellen wie Strafverfolgungsbehörden angefordert werden. Oder du an einem Turnier oder einem Gewinnspiel eines unserer Partner teilnimmst. In der Zusammenarbeit mit unseren Partnern kommt dabei unter anderem der Google Tag Manager zum Einsatz.  
     Deine personenbezogenen Daten werden keineswegs an Dritte zu Werbezwecken oder zwecks Erstellung von Nutzerprofilen verkauft oder weitergeleitet.  
       

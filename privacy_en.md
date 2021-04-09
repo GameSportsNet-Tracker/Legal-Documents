@@ -103,7 +103,19 @@ Within the scope of compliance of statutory and conventionary duties we partly u
       
     
   
-6.  **Disclosure to third parties**  
+6.  **Use of an Anti-Cheat-tool**  
+    ANYBRAIN is software product developed and service provided by ANYBRAIN, S.A. ANYBRAIN is a company dedicated to the development of software products, providing software solutions for security, safety and fraud prevention for online services such as online gaming.  
+    ANYBRAIN's software and services function as an SDK independent of the client app (e.g: the game client, or an external app) in which they will be inserted.  
+      
+    ANYBRAIN's services aims the collection of the user's personal data related to the use of keyboards and mouse and all interactions with the computer during the usage of the Client's software and applications, collecting:  
+    device ID, MAC address, IP address, and biometric data to identify patterns of the user's behavior, namely: speed and number of clicks on the mouse and keyboard.  
+      
+    This has the purpose of detecting and identifying any suspicious behavior of users playing in our Leagues and Tournaments, namely 99Liga, for the sake of fairness and cheating prevention.  
+    An opt-out is only possible if you waive your rights to play in the 99Liga.  
+    Participation in Games of the 99Liga is not possible without an active opt-in.  
+    More details about ANYBRAIN's services and statements can be found here: [Privacy Policy of Anybrain](https://www.anybrain.gg/privacy)
+  
+8.  **Disclosure to third parties**  
     We will only disclose personal, aggregated information to third parties when this is legally allowed or when you agree. If any third party is organizing and/or managing any promotion, competition, survey or poll run through our websites on our behalf, we may disclose your information to that third party to enable them to do so but they will be prohibited from using your information for any other purpose, unless you have given them specific consent. In cooperation with these third parties, we are using Google Tag Manager.  
       
     **Additional recipients**  
