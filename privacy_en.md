@@ -193,6 +193,7 @@ The following websites are currently part of the GameSports Network:
 *   www.summoners-inn.de
 *   www.rog-masters.com
 *   www.vct.gg
+*   www.primeleague.gg
 
   
   

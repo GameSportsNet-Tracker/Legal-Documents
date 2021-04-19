@@ -207,6 +207,7 @@ Zum Gamesports-Netzwerk gehören derzeit folgenden Domains (Webseiten):
 *   www.summoners-inn.de
 *   www.rog-masters.com
 *   www.vct.gg
+*   www.primeleague.gg
 
   
   
