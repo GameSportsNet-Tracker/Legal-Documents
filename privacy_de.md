@@ -201,17 +201,23 @@ Zum Gamesports-Netzwerk gehören derzeit folgenden Domains (Webseiten):
 
 *   www.1pv.fr
 *   www.99damage.de
-*   www.baal.live
+*   liga.99damage.de
 *   www.gamesports.net
 *   www.joindota.com
 *   www.summoners-inn.de
-*   www.rog-masters.com
+*   bingo.99damage.de
 *   www.vct.gg
 *   www.primeleague.gg
+*   www.nlc.gg
+*   www.agentsrange.gg
+*   www.agentsrange.it
+*   www.vrldachevolution.gg
+*   www.vrlfr.gg
+*   www.snapdragon-showdown.de
 
   
   
-_Stand April 2021_  
+_Stand Februar 2022_  
   
 
   
