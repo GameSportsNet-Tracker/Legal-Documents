@@ -1,103 +1,333 @@
-Nutzungsbedingungen - [Switch to English version](/tos/en)
-==========================================================
-
 **Präambel**  
   
-Die folgenden Nutzungsbedingungen stellen die Regeln dar, die für die Nutzung des GameSports Netzwerks gelten. Das GameSports Netzwerk besteht aus mehreren untereinander verknüpften Websites sowie aller dazu gehörigen Subdomains (im Folgenden "Website"). Dazu gehören unter anderem die folgenden Websites: gamesports.de, mystarcraft.de, joindota.com, 99damage.de sowie in2lol.com (nachfolgend "GameSports Netzwerk"). Neben der Durchführung von Turnieren bietet das GameSports Netzwerk eine Community und Inhalte, die sich mit dem Thema eSport und Gaming befassen. Im Rahmen der Community können sich die Nutzer über Games und Turniere austauschen, indem sie Inhalte teilen, auf Turniere hinweisen, etc.  
+Die folgenden Nutzungsbedingungen stellen die Regeln dar, die für die Nutzung des GameSports Netzwerks gelten. Das GameSports Netzwerk besteht aus mehreren untereinander verknüpften Websites sowie aller dazu gehörigen Subdomains (im Folgenden "Website"). Dazu gehören unter anderem die folgenden Websites: [gamesports.de](https://www.gamesports.net/de), [mystarcraft.de](https://www.freaks4u.de/), [joindota.com](https://www.joindota.com/), [99damage.de](https://www.99damage.de/) sowie [in2lol.com](https://www.summoners-inn.de/) (nachfolgend "GameSports Netzwerk"). Neben der Durchführung von Turnieren bietet das GameSports Netzwerk eine Community und Inhalte, die sich mit dem Thema eSport und Gaming befassen. Im Rahmen der Community können sich die Nutzer über Games und Turniere austauschen, indem sie Inhalte teilen, auf Turniere hinweisen, etc.  
 Geregelt wird in diesen Nutzungsbedingungen zum einen das Verhältnis zwischen den Betreibern des GameSports Netzwerks, der Freaks 4U Gaming GmbH, An der Spreeschanze 10, 13599 Berlin (im Folgenden "Freaks 4U") und den Besuchern und Mitgliedern (im Folgenden "Nutzer"), aber auch das Verhalten der Nutzer untereinander. Mit dem Zugriff und der späteren Registrierung im GameSports Netzwerk wird daher zwischen den Nutzern und den Betreibern ein Vertrag mit den folgenden Regelungen:  
   
-**1\. Anmeldung im GameSports Netzwerk und Annahme der Nutzungsbedingungen**  
 
-1.  Mit der Registrierung auf einer der Websites im GameSports Netzwerk schließt Du einen Nutzungsvertrag mit Freaks 4U ab und erklärst Dich mit den nachfolgenden Regelungen einverstanden.
-2.  Wenn Du mit diesen Regelungen nicht einverstanden ist, so darfst Du das GameSports Netzwerk nicht weiter nutzen. Für die Nutzung des GameSports Netzwerk gelten jeweils die an dieser Stelle veröffentlichten Regelungen.
-3.  Der Nutzungsvertrag wird auf unbestimmte Zeit geschlossen und kann von beiden Seiten ohne Einhaltung einer Frist jederzeit gekündigt werden.
-4.  Die Nutzung des Angebotes durch Nutzer, die das 12. Lebensjahr noch nicht vollendet haben, ist nur unter Aufsicht und mit Zustimmung eines Erziehungsberechtigten erlaubt.
+Anmeldung im GameSports Netzwerk und Annahme der Nutzungsbedingungen
+--------------------------------------------------------------------
 
-**2\. Reichweite der Nutzungsbedingungen**
+  
+  
 
-1.  Die Nutzungsbedingungen gelten auch für die Nutzer der übrigen Angebote auf der Website, sofern sie anwendbar sind. So sind z.B. die Verhaltensregeln anwendbar.
-2.  Für bestimmte Anwendungen (z.B. kostenpflichtige Angebote, Angebote Dritter, etc.) können zusätzliche oder besondere Bedingungen gelten. In diesem Fall wird Freaks 4U Dich auf die Zusatzbedingungen hinweisen.
-3.  Die Nutzung bestimmter Anwendungen im Rahmen des GameSports Netzwerks kann auf bestimmte Nutzer beschränkt sowie von den Zusatzbedingungen abhängig gemacht werden. Du wirst auf etwaige Einschränkungen vor deren Nutzung hingewiesen.
-4.  Die Nutzungsbedingungen gelten ab dem Beginn der jeweiligen Nutzung.
-5.  Allgemeine Geschäftsbedingungen oder andere Bestimmungen der Nutzer finden keine Anwendung, soweit sie von diesen Nutzungsbedingungen abweichen oder ihnen entgegenstehen.
+Mit der Registrierung auf einer der Websites im GameSports Netzwerk schließt Du einen Nutzungsvertrag mit Freaks 4U ab und erklärst Dich mit den nachfolgenden Regelungen einverstanden.
 
-**3\. Angebotsumfang des GameSports Netzwerks**
+  
+  
 
-1.  Das Angebot des GameSports Netzwerks umfasst die Websites samt den einzelnen dort abrufbaren Unterbereichen (z.B. Forum, Galerie, Sendeplan, etc.).
-2.  Das GameSports Netzwerk dient den Nutzern dazu, Video-, Audio-, Bild- und Text-Inhalte des GameSports Netzwerks zu nutzen und eigene Inhalte einzustellen und zu veröffentlichen, sich mit anderen hierüber auszutauschen und die Inhalte mit einer breiten und offenen Community zu teilen. Die im GameSports Netzwerk zur Verfügung gestellten Services beinhalten für registrierte Nutzer unter anderem die Möglichkeit, unterschiedliche Inhalte wie Bilder oder Texte auf den Websites einzustellen sowie andere Inhalte von Nutzern zu bewerten, zu kommentieren oder an Abstimmungen teilzunehmen. Registrierte Nutzer des GameSports Netzwerks haben darüber hinaus die Möglichkeit mit anderen Nutzern in Kontakt zu treten und nach Inhalten zu suchen.
-3.  Freaks 4U bemüht sich das Angebot ständig fortzuentwickeln, zu warten und zu Verfügung zu stellen. Es wird fortlaufend entwickelt und unterschiedlichen Faktoren, wie den Anforderungen der Nutzer, Anforderungen des Marktes sowie technischer und wirtschaftlicher Situation nach sachgerechter Abwägung angepasst. Daher umfasst das Angebot die Website in der aktuellen Entwicklungsstufe. Die Mitglieder und Nutzer haben aber keinen Anspruch darauf, dass das Angebot in seinem Inhalt und Umfang unverändert bleibt oder bestimmte Funktionen aufweist. Ebenfalls besteht kein Anspruch, dass das Angebot immer erreichbar und verfügbar ist sowie fehlerfrei funktioniert.
-4.  Freaks 4U behält sich ferner vor, das Angebot oder seine Teile nicht weiter zu Verfügung zu stellen. Bevor das Angebot eingestellt wird oder Funktionen geändert werden, die zum Verlust von Nutzerdaten führen können, wird hierauf angemessen hinweisen (im Regelfall per Email) und innerhalb einer angemessenen Frist (im Regelfall 2 Wochen) die Gelegenheit geben, die eigenen Daten zu sichern. Freaks 4U ist jedoch nicht verpflichtet Maßnahmen, Filter oder Schnittstellen zur Verfügung zu stellen, mit denen Daten in bestimmte Formate umgewandelt werden oder in besonderen Verfahren gespeichert werden können.
+Wenn Du mit diesen Regelungen nicht einverstanden ist, so darfst Du das GameSports Netzwerk nicht weiter nutzen. Für die Nutzung des GameSports Netzwerk gelten jeweils die an dieser Stelle veröffentlichten Regelungen.
 
-**4\. Angebote Dritter**
+  
+  
 
-1.  Freaks 4U behält sich vor mit Diensten Dritter zu kooperieren (z.B. selbständige Applikationen, Werbung, etc.).
-2.  Soweit Du die Angebote Dritter beanspruchst, wird Freaks 4U weder Vertragspartner noch Erfüllungsgehilfe. Es gelten die Geschäftsbedingungen des Dritten. Eine Leistungspflicht seitens Freaks 4U besteht in diesem Zusammenhang nicht.
+Der Nutzungsvertrag wird auf unbestimmte Zeit geschlossen und kann von beiden Seiten ohne Einhaltung einer Frist jederzeit gekündigt werden.
 
-**5\. Pflichten der Nutzer**
+  
+  
 
-1.  Sämtliche Dienstleistungen, die Dir im GameSports Netzwerk angeboten werden, sind ausschließlich für den privaten und nicht kommerziellen Gebrauch bestimmt. Mit erfolgter Registrierung verpflichtest Du Dich, diese Dienstleistungen und Inhalte nur für private Zwecke zu nutzen.
-2.  Bei der Anmeldung im GameSports Netzwerk bist Du verpflichtet, sämtliche im Anmeldformular vorgesehenen Felder wahrheitsgemäß und korrekt auszufüllen. Eine erfolgreiche Anmeldung ist nur bei vollständigem Ausfüllen der Pflichtfelder möglich.
-3.  Soweit Du eigene Beiträge (z.B. Textbeiträge, mediale Inhalte, wie z.B. Bilder, Grafiken, Filmaufnahmen, Tonaufnahmen, etc.) in das GameSports Netzwerk einbringst, erklärst Du, dass der Inhalt nicht gegen geltendes Recht oder die guten Sitten verstößt. Du erklärst insbesondere, dass Du das Recht hast, die in Deinen Inhalten und Beiträgen verwendeten Links und Inhalte (z.B. Bilder, Grafiken, etc.) zu setzen bzw. zu verwenden. Eine Vergütung für von Dir bereitgestellten Texte, Bilder, Fotos, Videos oder andere Inhalte wird ausgeschlossen.
-4.  Die von Dir eingestellten Inhalte müssen thematisch angemessen sein und dem Leser einen informativen Mehrwert bieten. Artikel und Bildmaterial dürfen weder reine Werbesprache noch reine Werbebotschaften beinhalten. Inhalte dürfen unter anderem keine Beleidigungen oder üble Nachreden enthalten, sowie Stalking, Mobbing, sexuelle oder rassistische Inhalte sowie Aufrufen dazu, oder zu Drogenkonsum oder Gewalttaten.
-5.  Du bist verantwortlich für die Inhalte Deiner Beiträge und der von Dir bereitgestellten Inhalte. Dies gilt insbesondere für die mögliche Verletzung von Urheberrechten.
-6.  Jeder inhaltlicher und medialer Beitrag muss bei seiner Veröffentlichung durch Angabe des Autorennamens bzw. Profilnamens dem Urheber klar zuzuordnen sein.
-7.  Deine Anmeldedaten (Name, Profilbilder) sollten nicht anstößig oder ehrverletzend für andere sein, sowie anderen Personen (z.B. Prominenten) oder Unternehmen entsprechen.
-8.  Du darfst gleichzeitig nur mit einem Profil/Account auf einer Website angemeldet sein. Falls Du Deine Anmeldedaten verloren hast, verpflichtest Du Dich Kontakt mit Freaks 4U aufzunehmen.
-9.  Zum reibungslosen Empfang von Emails von Freaks 4U musst Du sicherstellen, dass Emails mit dem Absender webmaster@gamesports.net aus Deine Spamfilter ausgeschlossen werden, indem diese Email-Adresse bspw. zur "Liste sicherer Absender" hinzugefügt wird.
-10.  Die Eingabe der Email-Adresse bei der Anmeldung dient Freaks 4U dazu, Dich zu identifizieren und mit Dir Kontakt aufzunehmen. Freaks 4U ist berechtigt Dir Nachrichten betreffend technischer Belange, dem Betrieb und der Funktionen des Angebotes zu verschicken. Es wird daher darum gebeten, die Email-Adresse aktuell zu halten. Soweit Du über die Email-Adresse nicht zu erreichen ist und die Nichterreichbarkeit in Deinem Verantwortungsbereich liegt (veraltete Adresse, Postfach wird nicht abgerufen, etc.), so werden die hieraus resultierenden Nachteile zu Deinen Lasten ausgelegt, d.h. die Email wird als zugestellt gelten.
-11.  Ein Verkauf oder eine Übertragung des Benutzerkontos auf Dritte ist nicht gestattet.
+Die Nutzung des Angebotes durch Nutzer, die das 12. Lebensjahr noch nicht vollendet haben, ist nur unter Aufsicht und mit Zustimmung eines Erziehungsberechtigten erlaubt.
 
-**6\. Rechte der Betreiber des GameSports Netzwerks**
+  
+  
 
-1.  Freaks 4U übt das Hausrecht aus. Bei Verstößen gegen diese Nutzungsbedingungen, Gesetze und/oder anderer auf der Website veröffentlichten Regeln kann Freaks 4U Dich ohne Abmahnung zeitweise oder dauerhaft von der Nutzung des GameSports Netzwerks ausschließen und DIr ein Hausverbot erteilen.
-2.  Du gestattest Freaks 4U, Dein Benutzerkonto, Beiträge und Funktionen jederzeit zu löschen oder zu sperren.
-3.  Du gestattest Freaks 4U darüber hinaus, Deine Beiträge und bereit gestellte Inhalte abzuändern oder zu entfernen, sofern sie gegen Gesetze, Regeln in diesen Nutzungsbedingungen, Regeln an anderer Stelle der Website verstoßen oder geeignet sind, Freaks 4U oder einem Dritten Schaden zuzufügen oder keinen (thematischen) Mehrwert für die Website bringen. Freaks 4U behält sich vor, die Einordnung der Vorgaben für Inhalte nach eigenem Ermessen zu bewerten.
-4.  Freaks 4U behält sich vor, im GameSports Netzwerk angebotene Leistungen und Inhalte kostenpflichtig anzubieten. Freaks 4U wird Dich in diesem Fall über die Preise und Konditionen informieren.
+Reichweite der Nutzungsbedingungen
+----------------------------------
 
-**7\. Rechteeinräumung**
+  
+  
 
-1.  Mit dem Erstellen von Inhalten in der Community des GameSports Netzwerks nebst medialer Inhalte, erteilst Du Freaks 4U ein einfaches, zeitlich und räumlich unbeschränktes und unentgeltliches Recht, die erstellten Inhalte im Rahmen der Website zu nutzen. Dieses Nutzungsrecht beinhaltet insbesondere das Recht, die Inhalte im GameSports Netzwerk oder gegebenenfalls andere Medien weltweit öffentlich zugänglich zu machen, sie zu vervielfältigen, zu verbreiten und auf Dritte zu übertragen.
-2.  Dieses Nutzungsrecht bleibt auch nach Kündigung des Nutzungsvertrags bestehen.
-3.  Durch die Einräumung dieser Rechte macht sich Freaks 4U die Inhalte der Nutzer nicht im Sinne von Haftungsnormen zu Eigen. Die Einräumung der Rechte dient lediglich der Erleichterung der Verwaltung und der Nutzung der Inhalte beim Betrieb der Community.
+Die Nutzungsbedingungen gelten auch für die Nutzer der übrigen Angebote auf der Website, sofern sie anwendbar sind. So sind z.B. die Verhaltensregeln anwendbar.
 
-**8\. Beendigung des Nutzungsverhältnisses**
+  
+  
 
-1.  Freaks 4U übt das Hausrecht aus. Bei Verstößen gegen diese Nutzungsbedingungen, Gesetze und/oder anderer auf der Website veröffentlichten Regeln kann Freaks 4U Dich nach Abmahnung zeitweise oder dauerhaft von der Nutzung des GameSports Netzwerks ausschließen und DIr ein Hausverbot erteilen.
-2.  Du kannst Deine Mitgliedschaft in der Community jederzeit kündigen. Eine Kündigung erfolgt über die Profileinstellungen durch Löschung Deiner Registrierung. Hast Du Deine Profildaten vergessen, kannst er per Email unter webmaster@gamesports.net um eine Kündigung bitten. Deine Email mit der Aufforderung zur Löschung Deiner Registrierung muss in diesem Fall von der Email-Adresse aus verschickt werden mit der Du registriert bist.
-3.  Falls Du Deine Mitgliedschaft oder andere Angebote mehr als ein Jahr nicht nutzt, behält sich Freaks 4U das Recht vor, das Nutzungsverhältnis zu beenden und Deine Daten sowie Deine Registrierung ohne Ankündigung zu löschen.
+Für bestimmte Anwendungen (z.B. kostenpflichtige Angebote, Angebote Dritter, etc.) können zusätzliche oder besondere Bedingungen gelten. In diesem Fall wird Freaks 4U Dich auf die Zusatzbedingungen hinweisen.
 
-**9\. Haftung nach dem Recht der Telemedien**  
+  
+  
+
+Die Nutzung bestimmter Anwendungen im Rahmen des GameSports Netzwerks kann auf bestimmte Nutzer beschränkt sowie von den Zusatzbedingungen abhängig gemacht werden. Du wirst auf etwaige Einschränkungen vor deren Nutzung hingewiesen.
+
+  
+  
+
+Die Nutzungsbedingungen gelten ab dem Beginn der jeweiligen Nutzung.
+
+  
+  
+
+Allgemeine Geschäftsbedingungen oder andere Bestimmungen der Nutzer finden keine Anwendung, soweit sie von diesen Nutzungsbedingungen abweichen oder ihnen entgegenstehen.
+
+  
+  
+
+Angebotsumfang des GameSports Netzwerks
+---------------------------------------
+
+  
+  
+
+Das Angebot des GameSports Netzwerks umfasst die Websites samt den einzelnen dort abrufbaren Unterbereichen (z.B. Forum, Galerie, Sendeplan, etc.).
+
+  
+  
+
+Das GameSports Netzwerk dient den Nutzern dazu, Video-, Audio-, Bild- und Text-Inhalte des GameSports Netzwerks zu nutzen und eigene Inhalte einzustellen und zu veröffentlichen, sich mit anderen hierüber auszutauschen und die Inhalte mit einer breiten und offenen Community zu teilen. Die im GameSports Netzwerk zur Verfügung gestellten Services beinhalten für registrierte Nutzer unter anderem die Möglichkeit, unterschiedliche Inhalte wie Bilder oder Texte auf den Websites einzustellen sowie andere Inhalte von Nutzern zu bewerten, zu kommentieren oder an Abstimmungen teilzunehmen. Registrierte Nutzer des GameSports Netzwerks haben darüber hinaus die Möglichkeit mit anderen Nutzern in Kontakt zu treten und nach Inhalten zu suchen.
+
+  
+  
+
+Freaks 4U bemüht sich das Angebot ständig fortzuentwickeln, zu warten und zu Verfügung zu stellen. Es wird fortlaufend entwickelt und unterschiedlichen Faktoren, wie den Anforderungen der Nutzer, Anforderungen des Marktes sowie technischer und wirtschaftlicher Situation nach sachgerechter Abwägung angepasst. Daher umfasst das Angebot die Website in der aktuellen Entwicklungsstufe. Die Mitglieder und Nutzer haben aber keinen Anspruch darauf, dass das Angebot in seinem Inhalt und Umfang unverändert bleibt oder bestimmte Funktionen aufweist. Ebenfalls besteht kein Anspruch, dass das Angebot immer erreichbar und verfügbar ist sowie fehlerfrei funktioniert.
+
+  
+  
+
+Freaks 4U behält sich ferner vor, das Angebot oder seine Teile nicht weiter zu Verfügung zu stellen. Bevor das Angebot eingestellt wird oder Funktionen geändert werden, die zum Verlust von Nutzerdaten führen können, wird hierauf angemessen hinweisen (im Regelfall per Email) und innerhalb einer angemessenen Frist (im Regelfall 2 Wochen) die Gelegenheit geben, die eigenen Daten zu sichern. Freaks 4U ist jedoch nicht verpflichtet Maßnahmen, Filter oder Schnittstellen zur Verfügung zu stellen, mit denen Daten in bestimmte Formate umgewandelt werden oder in besonderen Verfahren gespeichert werden können.
+
+  
+  
+
+Angebote Dritter
+----------------
+
+  
+  
+
+Freaks 4U behält sich vor mit Diensten Dritter zu kooperieren (z.B. selbständige Applikationen, Werbung, etc.).
+
+  
+  
+
+Soweit Du die Angebote Dritter beanspruchst, wird Freaks 4U weder Vertragspartner noch Erfüllungsgehilfe. Es gelten die Geschäftsbedingungen des Dritten. Eine Leistungspflicht seitens Freaks 4U besteht in diesem Zusammenhang nicht.
+
+  
+  
+
+Pflichten der Nutzer
+--------------------
+
+  
+  
+
+Sämtliche Dienstleistungen, die Dir im GameSports Netzwerk angeboten werden, sind ausschließlich für den privaten und nicht kommerziellen Gebrauch bestimmt. Mit erfolgter Registrierung verpflichtest Du Dich, diese Dienstleistungen und Inhalte nur für private Zwecke zu nutzen.
+
+  
+  
+
+Bei der Anmeldung im GameSports Netzwerk bist Du verpflichtet, sämtliche im Anmeldformular vorgesehenen Felder wahrheitsgemäß und korrekt auszufüllen. Eine erfolgreiche Anmeldung ist nur bei vollständigem Ausfüllen der Pflichtfelder möglich.
+
+  
+  
+
+Soweit Du eigene Beiträge (z.B. Textbeiträge, mediale Inhalte, wie z.B. Bilder, Grafiken, Filmaufnahmen, Tonaufnahmen, etc.) in das GameSports Netzwerk einbringst, erklärst Du, dass der Inhalt nicht gegen geltendes Recht oder die guten Sitten verstößt. Du erklärst insbesondere, dass Du das Recht hast, die in Deinen Inhalten und Beiträgen verwendeten Links und Inhalte (z.B. Bilder, Grafiken, etc.) zu setzen bzw. zu verwenden. Eine Vergütung für von Dir bereitgestellten Texte, Bilder, Fotos, Videos oder andere Inhalte wird ausgeschlossen.
+
+  
+  
+
+Die von Dir eingestellten Inhalte müssen thematisch angemessen sein und dem Leser einen informativen Mehrwert bieten. Artikel und Bildmaterial dürfen weder reine Werbesprache noch reine Werbebotschaften beinhalten. Inhalte dürfen unter anderem keine Beleidigungen oder üble Nachreden enthalten, sowie Stalking, Mobbing, sexuelle oder rassistische Inhalte sowie Aufrufen dazu, oder zu Drogenkonsum oder Gewalttaten.
+
+  
+  
+
+Du bist verantwortlich für die Inhalte Deiner Beiträge und der von Dir bereitgestellten Inhalte. Dies gilt insbesondere für die mögliche Verletzung von Urheberrechten.
+
+  
+  
+
+Jeder inhaltlicher und medialer Beitrag muss bei seiner Veröffentlichung durch Angabe des Autorennamens bzw. Profilnamens dem Urheber klar zuzuordnen sein.
+
+  
+  
+
+Deine Anmeldedaten (Name, Profilbilder) sollten nicht anstößig oder ehrverletzend für andere sein, sowie anderen Personen (z.B. Prominenten) oder Unternehmen entsprechen.
+
+  
+  
+
+Du darfst gleichzeitig nur mit einem Profil/Account auf einer Website angemeldet sein. Falls Du Deine Anmeldedaten verloren hast, verpflichtest Du Dich Kontakt mit Freaks 4U aufzunehmen.
+
+  
+  
+
+Zum reibungslosen Empfang von Emails von Freaks 4U musst Du sicherstellen, dass Emails mit dem Absender [webmaster@gamesports.net](mailto:webmaster@gamesports.net) aus Deine Spamfilter ausgeschlossen werden, indem diese Email-Adresse bspw. zur "Liste sicherer Absender" hinzugefügt wird.
+
+  
+  
+
+Zum reibungslosen Empfang von Emails von Freaks 4U musst Du sicherstellen, dass Emails mit dem Absender [webmaster@gamesports.net](mailto:webmaster@gamesports.net) aus Deine Spamfilter ausgeschlossen werden, indem diese Email-Adresse bspw. zur "Liste sicherer Absender" hinzugefügt wird.
+
+  
+  
+
+Ein Verkauf oder eine Übertragung des Benutzerkontos auf Dritte ist nicht gestattet.
+
+  
+  
+
+Rechte der Betreiber des GameSports Netzwerks
+---------------------------------------------
+
+  
+  
+
+Freaks 4U übt das Hausrecht aus. Bei Verstößen gegen diese Nutzungsbedingungen, Gesetze und/oder anderer auf der Website veröffentlichten Regeln kann Freaks 4U Dich ohne Abmahnung zeitweise oder dauerhaft von der Nutzung des GameSports Netzwerks ausschließen und DIr ein Hausverbot erteilen.
+
+  
+  
+
+Du gestattest Freaks 4U, Dein Benutzerkonto, Beiträge und Funktionen jederzeit zu löschen oder zu sperren.
+
+  
+  
+
+Du gestattest Freaks 4U darüber hinaus, Deine Beiträge und bereit gestellte Inhalte abzuändern oder zu entfernen, sofern sie gegen Gesetze, Regeln in diesen Nutzungsbedingungen, Regeln an anderer Stelle der Website verstoßen oder geeignet sind, Freaks 4U oder einem Dritten Schaden zuzufügen oder keinen (thematischen) Mehrwert für die Website bringen. Freaks 4U behält sich vor, die Einordnung der Vorgaben für Inhalte nach eigenem Ermessen zu bewerten.
+
+  
+  
+
+Freaks 4U behält sich vor, im GameSports Netzwerk angebotene Leistungen und Inhalte kostenpflichtig anzubieten. Freaks 4U wird Dich in diesem Fall über die Preise und Konditionen informieren.
+
+  
+  
+
+Rechteeinräumung
+----------------
+
+  
+  
+
+Mit dem Erstellen von Inhalten in der Community des GameSports Netzwerks nebst medialer Inhalte, erteilst Du Freaks 4U ein einfaches, zeitlich und räumlich unbeschränktes und unentgeltliches Recht, die erstellten Inhalte im Rahmen der Website zu nutzen. Dieses Nutzungsrecht beinhaltet insbesondere das Recht, die Inhalte im GameSports Netzwerk oder gegebenenfalls andere Medien weltweit öffentlich zugänglich zu machen, sie zu vervielfältigen, zu verbreiten und auf Dritte zu übertragen.
+
+  
+  
+
+Dieses Nutzungsrecht bleibt auch nach Kündigung des Nutzungsvertrags bestehen.
+
+  
+  
+
+Durch die Einräumung dieser Rechte macht sich Freaks 4U die Inhalte der Nutzer nicht im Sinne von Haftungsnormen zu Eigen. Die Einräumung der Rechte dient lediglich der Erleichterung der Verwaltung und der Nutzung der Inhalte beim Betrieb der Community.
+
+  
+  
+
+Beendigung des Nutzungsverhältnisses
+------------------------------------
+
+  
+  
+
+Freaks 4U übt das Hausrecht aus. Bei Verstößen gegen diese Nutzungsbedingungen, Gesetze und/oder anderer auf der Website veröffentlichten Regeln kann Freaks 4U Dich nach Abmahnung zeitweise oder dauerhaft von der Nutzung des GameSports Netzwerks ausschließen und DIr ein Hausverbot erteilen.
+
+  
+  
+
+Du kannst Deine Mitgliedschaft in der Community jederzeit kündigen. Eine Kündigung erfolgt über die Profileinstellungen durch Löschung Deiner Registrierung. Hast Du Deine Profildaten vergessen, kannst er per Email unter webmaster@gamesports.net um eine Kündigung bitten. Deine Email mit der Aufforderung zur Löschung Deiner Registrierung muss in diesem Fall von der Email-Adresse aus verschickt werden mit der Du registriert bist.
+
+  
+  
+
+Falls Du Deine Mitgliedschaft oder andere Angebote mehr als ein Jahr nicht nutzt, behält sich Freaks 4U das Recht vor, das Nutzungsverhältnis zu beenden und Deine Daten sowie Deine Registrierung ohne Ankündigung zu löschen.
+
+  
+  
+
+Haftung nach dem Recht der Telemedien
+-------------------------------------
+
+  
+  
 Du nimmst zur Kenntnis, dass Freaks 4U keine Verantwortung für die Inhalte übernimmt, die Freaks 4U nicht selbst auf der Website erstellt hat oder die Freaks 4U nicht zur Kenntnis genommen hat.  
   
-**10\. Haftungsbeschränkungen**
 
-1.  Freaks 4U haftet mit Ausnahme der Verletzung von Leben, Körper und Gesundheit und der Verletzung wesentlicher Vertragspflichten (Kardinalpflichten) nur für Schäden, die auf ein vorsätzliches oder grob fahrlässiges Verhalten zurückzuführen sind. Dies gilt auch für mittelbare Folgeschäden wie insbesondere entgangenen Gewinn.
-2.  Die Haftungsbegrenzung dieser Bedingungen gelten sinngemäß auch zugunsten der Mitarbeiter und Erfüllungsgehilfen von Freaks 4U.
-3.  Ansprüche für eine Haftung aus zwingendem nationalem Recht bleiben unberührt.
+Haftungsbeschränkungen
+----------------------
 
-**11\. Haftungsfreistellung**
+  
+  
 
-1.  Falls sich Freaks 4U wegen Deiner Handlungen oder Inhalten von Dir verantworten muss (bspw. wegen Nutzung eines urheberrechtlich geschützten Fotos durch einen Nutzer), stellst Du Freaks 4U und ihre Erfüllungsgehilfen frei von sämtlichen Ansprüchen sowie den notwendigen Kosten, die im Zusammenhang mit der Abwehr von Ansprüchen entstehen, welche Dritte gegenüber Freaks 4U aufgrund einer von Dir zu vertretenen Rechtsverletzung geltend machen.
-2.  Zu den notwendigen Kosten gehören insbesondere Gerichts- und Anwaltskosten in gesetzlicher Höhe.
-3.  Du bist ferner verpflichtet Freaks 4U wahrheitsgemäß, unverzüglich und vollständig von der Rechtsverletzung und über alle Umstände, die der Abwehr der Ansprüche des Dritten dienlich sind, zu informieren und hierzu notwendige Materialien zu überlassen.
+Freaks 4U haftet mit Ausnahme der Verletzung von Leben, Körper und Gesundheit und der Verletzung wesentlicher Vertragspflichten (Kardinalpflichten) nur für Schäden, die auf ein vorsätzliches oder grob fahrlässiges Verhalten zurückzuführen sind. Dies gilt auch für mittelbare Folgeschäden wie insbesondere entgangenen Gewinn.
 
-**12\. Teilnahmebedingungen bei Gewinnspielen und Turnieren**  
+  
+  
+
+Die Haftungsbegrenzung dieser Bedingungen gelten sinngemäß auch zugunsten der Mitarbeiter und Erfüllungsgehilfen von Freaks 4U.
+
+  
+  
+
+Ansprüche für eine Haftung aus zwingendem nationalem Recht bleiben unberührt.
+
+  
+  
+
+Haftungsfreistellung
+--------------------
+
+  
+  
+
+Falls sich Freaks 4U wegen Deiner Handlungen oder Inhalten von Dir verantworten muss (bspw. wegen Nutzung eines urheberrechtlich geschützten Fotos durch einen Nutzer), stellst Du Freaks 4U und ihre Erfüllungsgehilfen frei von sämtlichen Ansprüchen sowie den notwendigen Kosten, die im Zusammenhang mit der Abwehr von Ansprüchen entstehen, welche Dritte gegenüber Freaks 4U aufgrund einer von Dir zu vertretenen Rechtsverletzung geltend machen.
+
+  
+  
+
+Zu den notwendigen Kosten gehören insbesondere Gerichts- und Anwaltskosten in gesetzlicher Höhe.
+
+  
+  
+
+Du bist ferner verpflichtet Freaks 4U wahrheitsgemäß, unverzüglich und vollständig von der Rechtsverletzung und über alle Umstände, die der Abwehr der Ansprüche des Dritten dienlich sind, zu informieren und hierzu notwendige Materialien zu überlassen.
+
+  
+  
+
+Teilnahmebedingungen bei Gewinnspielen und Turnieren
+----------------------------------------------------
+
+  
+  
 Soweit in der Community des GameSports Netzwerk Gewinnspiele oder Turniere durchgeführt werden, gelten die dort aufgeführten Teilnahmebedingungen.  
   
-**13\. Änderungen dieser Nutzungsbedingungen**
 
-1.  Freaks 4U ist berechtigt, die Nutzungsbedingungen und die Datenschutzrichtlinien zu ändern. Die Anpassung erfolgt nur beim Vorliegen von triftigen und sachlichen Gründen und wenn es das vertragliche Gleichgewicht des Nutzers zu dem Betreiber nicht stören wird. Solche Gründe können zum Beispiel rechtliche sowie technische Veränderungen, Erfahrungen mit Nutzerverhalten oder unbeabsichtigte Lücken in den Klauseln sein. Die Änderung wird Dir per Email und/oder beim nächsten Besuch der Webseite mitgeteilt.
-2.  Du bist berechtigt, den Änderungen zu widersprechen. Im Falle des Widerspruchs behält sich Freaks 4U das Recht vor, das zwischen Freaks 4U und Dir bestehende Vertragsverhältnis mit sofortiger Wirkung zu beenden.
-3.  Die Änderungen gelten als anerkannt und verbindlich, wenn Du den Änderungen innerhalb von 14 Tagen nicht widersprochen hast.
+Änderungen dieser Nutzungsbedingungen
+-------------------------------------
 
-**14\. Datenschutz**  
+  
+  
+
+Freaks 4U ist berechtigt, die Nutzungsbedingungen und die Datenschutzrichtlinien zu ändern. Die Anpassung erfolgt nur beim Vorliegen von triftigen und sachlichen Gründen und wenn es das vertragliche Gleichgewicht des Nutzers zu dem Betreiber nicht stören wird. Solche Gründe können zum Beispiel rechtliche sowie technische Veränderungen, Erfahrungen mit Nutzerverhalten oder unbeabsichtigte Lücken in den Klauseln sein. Die Änderung wird Dir per Email und/oder beim nächsten Besuch der Webseite mitgeteilt.
+
+  
+  
+
+Du bist berechtigt, den Änderungen zu widersprechen. Im Falle des Widerspruchs behält sich Freaks 4U das Recht vor, das zwischen Freaks 4U und Dir bestehende Vertragsverhältnis mit sofortiger Wirkung zu beenden.
+
+  
+  
+
+Die Änderungen gelten als anerkannt und verbindlich, wenn Du den Änderungen innerhalb von 14 Tagen nicht widersprochen hast.
+
+  
+  
+
+Datenschutz
+-----------
+
+  
+  
 Die geltenden datenschutzrechtlichen Bestimmungen sind Freaks 4U bekannt. Freaks 4U wird die gesetzlichen Bestimmungen des Datenschutzes in der jeweils geltenden Fassung einhalten.  
   
-**15\. Anwendbares Recht, Schlussbestimmung**
 
-1.  Auf die vertraglichen Beziehungen zwischen Dir und Freaks4U und diese Nutzungsbedingungen ist das Recht der Bundesrepublik Deutschland anwendbar, soweit dem keine zwingenden Regelungen entgegenstehen.
-2.  Sollten eine oder mehrere der Bestimmungen dieses Vertrages unwirksam sein oder werden, so wird die Wirksamkeit der übrigen Bestimmungen hierdurch nicht berührt. Die Vertragsparteien sind gehalten, die unwirksame Bestimmung durch eine solche wirksame Bestimmung zu ersetzen, mit der das vertraglich gewollte Ergebnis am besten erreicht wird.
+Anwendbares Recht, Schlussbestimmung
+------------------------------------
 
   
   
-[back to document overview](/)
+
+Auf die vertraglichen Beziehungen zwischen Dir und Freaks4U und diese Nutzungsbedingungen ist das Recht der Bundesrepublik Deutschland anwendbar, soweit dem keine zwingenden Regelungen entgegenstehen.
+
+  
+  
+
+Sollten eine oder mehrere der Bestimmungen dieses Vertrages unwirksam sein oder werden, so wird die Wirksamkeit der übrigen Bestimmungen hierdurch nicht berührt. Die Vertragsparteien sind gehalten, die unwirksame Bestimmung durch eine solche wirksame Bestimmung zu ersetzen, mit der das vertraglich gewollte Ergebnis am besten erreicht wird.
